@@ -31,7 +31,11 @@
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Database
 
@@ -41,7 +45,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -53,8 +57,8 @@ A backend system developed to manage veterinary clinics including:
 
 - Patient Management
 - Appointment Scheduling
-- Database Management
 - CRUD Operations
+- Database Design
 - MySQL Database
 
 ---
@@ -64,12 +68,23 @@ A backend system developed to manage veterinary clinics including:
 ```java
 public class Wadee {
 
+    String name = "Wadee Abd Al Kareem";
+
     String role = "Backend Developer";
 
     String[] languages = {
         "Java",
         "PHP",
         "JavaScript"
+    };
+
+    String[] frontend = {
+        "HTML",
+        "CSS"
+    };
+
+    String[] backend = {
+        "Spring Boot"
     };
 
     String[] database = {
@@ -82,18 +97,19 @@ public class Wadee {
         "VS Code"
     };
 
+    boolean openToWork = true;
 }
 ```
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wadeecs50&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wadeeabdalkareem&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeecs50&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeeabdalkareem&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -103,7 +119,7 @@ public class Wadee {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=wadeecs50&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=wadeeabdalkareem&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -111,16 +127,20 @@ public class Wadee {
 
 ## 📫 Connect with Me
 
-- LinkedIn:
-  https://www.linkedin.com/in/wadeewabdalkareem/
+<div align="center">
 
-- GitHub:
-  https://github.com/wadeecs50
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wadee%20Abd%20Al%20Kareem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wadeewabdalkareem/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-wadeeabdalkareem-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wadeeabdalkareem)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### 💙 Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and don't forget to leave a star if you like my work.
 
 </div>
