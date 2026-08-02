@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Wadee Abd Al Kareem
 
-### Backend Developer | Software Engineer
+### Software Engineer | Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Developer;PHP+Developer;Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Developer;PHP+Developer;Software+Engineer" />
 
 </div>
 
@@ -12,17 +12,17 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Graduate
+- 🎓 Software Engineer
 - 💻 Passionate about Backend Development
-- 🌱 Currently improving my skills in Java, PHP, MySQL, and Spring Boot
-- 🔍 Interested in building scalable backend systems and REST APIs
-- 🚀 Always learning new technologies
+- 🌱 Currently learning Java, PHP, MySQL, and Spring Boot
+- 🚀 Interested in building scalable backend systems and REST APIs
+- 📚 Always learning new technologies
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -30,7 +30,7 @@
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
@@ -53,7 +53,7 @@
 
 ### 🐾 Veterinary Clinic Management System
 
-A backend system developed to manage veterinary clinics including:
+A backend system for managing veterinary clinics with:
 
 - Patient Management
 - Appointment Scheduling
@@ -63,7 +63,7 @@ A backend system developed to manage veterinary clinics including:
 
 ---
 
-## 💡 Skills
+## 💡 About Me in Code
 
 ```java
 public class Wadee {
@@ -107,9 +107,9 @@ public class Wadee {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wadeeabdalkareem&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wadeeabdalkareem&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeeabdalkareem&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeeabdalkareem&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -119,7 +119,7 @@ public class Wadee {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=wadeeabdalkareem&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=wadeeabdalkareem&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -141,6 +141,8 @@ public class Wadee {
 
 ### 💙 Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories and don't forget to leave a star if you like my work.
+⭐ Feel free to explore my repositories and don't forget to leave a ⭐ if you like my work.
+
+![Profile Views](https://komarev.com/ghpvc/?username=wadeeabdalkareem&style=for-the-badge&color=0e75b6)
 
 </div>
