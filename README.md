@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Wadee Abd Al Kareem
 
-### Backend Developer | Software Engineering
+### Backend Developer | Software Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Developer;PHP+Developer;Software+Engineer" />
 
@@ -70,7 +70,7 @@ public class Wadee {
 
     String name = "Wadee Abd Al Kareem";
 
-    String role = "Backend Developermnet";
+    String role = "Backend Developer";
 
     String[] languages = {
         "Java",
